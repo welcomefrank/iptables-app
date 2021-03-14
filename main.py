@@ -8,7 +8,7 @@ import argparse
 import subprocess
 from magic_repr import make_repr
 
-from .dns_resolver import Resolver
+from dns_resolver import Resolver
 
 import logging
 
